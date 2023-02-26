@@ -1,0 +1,11 @@
+.progress-ring__circle {
+  transition: 0.35s stroke-dashoffset;
+  // axis compensation
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+}
+.connectednumber{
+position: fixed;
+left: 44%;
+top: 44%;
+}
